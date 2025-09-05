@@ -3,6 +3,8 @@ Hi, I'm Emman
 # 💫 About Me:
 A Bachelor of Science in Information Technology graduate with extensive experience in<br>IT hardware support and foundational knowledge of HTML, system development, and<br>SQL management. A collaborative team player with strong creative skills, committed to<br>contributing innovative ideas and enhancing technical expertise through continuous<br>learning and practical application.
 
+#  Finish Projects:
+https://nationalueduph-my.sharepoint.com/:w:/g/personal/bombiobm_students_nu-laguna_edu_ph/EfkIP4sw7FNOs746BI_5SZ0B-d1F-JJnQz6ZXX0TFYUMRQ?e=21acyk&fbclid=IwY2xjawMnPsZleHRuA2FlbQIxMABicmlkETFXNlZUUjVCZ3hUTU5qYzNLAR43hLSR5EnJWUmoGFkN4wgGmPmKRWcNTwJYYhrh2tlF7sS1zpyocOKhmESWnQ_aem_rLzXXKw-gIz6O5GxDvBWLA 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/emmanreyes26) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/itsnammeee/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emmanuel-reyes-261997271/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/yashirooee) 
